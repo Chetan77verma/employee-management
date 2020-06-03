@@ -1,6 +1,10 @@
 # EmployeeManagement
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+This project includes key concepts of angular like Components,Modules,Directives,Services,Dependency Injection,Rxjx,Lazy Loading,Angular Pipe
+Fuctionalities includes Listing Employess,Update Employees,Add New Employee,Delete Employee.
+HTML Layout: https://startbootstrap.com/themes/sb-admin-2/
+Web Service: http://dummy.restapiexample.com/
 
 ## Development server
 
